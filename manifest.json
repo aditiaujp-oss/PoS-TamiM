@@ -1,0 +1,19 @@
+{
+  "name": "Dapur Tamim POS",
+  "short_name": "Dapur Tamim",
+  "description": "Aplikasi Point of Sale — Dapur Tamim",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F0F2F5",
+  "theme_color": "#FF6B35",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='96' fill='%23FF6B35'/%3E%3Ctext x='256' y='350' font-size='300' font-family='sans-serif' font-weight='900' fill='white' text-anchor='middle'%3ED%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='96' fill='%23FF6B35'/%3E%3Ctext x='256' y='350' font-size='300' font-family='sans-serif' font-weight='900' fill='white' text-anchor='middle'%3ED%3
